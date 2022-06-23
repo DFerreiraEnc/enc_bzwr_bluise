@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
+  "name": "enclustra Bluise",
+  "shortName": "enc Bluise",
   "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "themeColor": "#074c97",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
